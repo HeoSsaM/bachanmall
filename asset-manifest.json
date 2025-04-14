@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bachanmall/static/css/main.e213edb4.css",
+    "main.js": "/bachanmall/static/js/main.2d129767.js",
+    "static/js/453.f6e38ed9.chunk.js": "/bachanmall/static/js/453.f6e38ed9.chunk.js",
+    "static/media/logo.png": "/bachanmall/static/media/logo.43a3e190fd8435235ace.png",
+    "index.html": "/bachanmall/index.html",
+    "main.e213edb4.css.map": "/bachanmall/static/css/main.e213edb4.css.map",
+    "main.2d129767.js.map": "/bachanmall/static/js/main.2d129767.js.map",
+    "453.f6e38ed9.chunk.js.map": "/bachanmall/static/js/453.f6e38ed9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e213edb4.css",
+    "static/js/main.2d129767.js"
+  ]
+}
