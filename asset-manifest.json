@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bachanmall/static/css/main.e213edb4.css",
-    "main.js": "/bachanmall/static/js/main.cf024951.js",
+    "main.css": "/bachanmall/static/css/main.837cabb7.css",
+    "main.js": "/bachanmall/static/js/main.bff26db6.js",
     "static/js/453.f6e38ed9.chunk.js": "/bachanmall/static/js/453.f6e38ed9.chunk.js",
     "static/media/logo.png": "/bachanmall/static/media/logo.43a3e190fd8435235ace.png",
     "index.html": "/bachanmall/index.html",
-    "main.e213edb4.css.map": "/bachanmall/static/css/main.e213edb4.css.map",
-    "main.cf024951.js.map": "/bachanmall/static/js/main.cf024951.js.map",
+    "main.837cabb7.css.map": "/bachanmall/static/css/main.837cabb7.css.map",
+    "main.bff26db6.js.map": "/bachanmall/static/js/main.bff26db6.js.map",
     "453.f6e38ed9.chunk.js.map": "/bachanmall/static/js/453.f6e38ed9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e213edb4.css",
-    "static/js/main.cf024951.js"
+    "static/css/main.837cabb7.css",
+    "static/js/main.bff26db6.js"
   ]
 }
